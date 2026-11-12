@@ -1,0 +1,30 @@
+{
+  "name": "devstage",
+  "version": "1.0.0",
+  "description": "Pagina de identidad personal acerca mi evolucion como desarrollador",
+  "keywords": [
+    "portafolio",
+    "developer",
+    "web",
+    "udemy",
+    "Colombia"
+  ],
+  "homepage": "https://github.com/JUANJOSEROMANPROGRAMA/DevStage#readme",
+  "bugs": {
+    "url": "https://github.com/JUANJOSEROMANPROGRAMA/DevStage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUANJOSEROMANPROGRAMA/DevStage.git"
+  },
+  "license": "ISC",
+  "author": "Juan Jose Roman Bernal @JUANJOSEROMANPROGRAMA",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sass": "^1.108.2"
+  }
+}
